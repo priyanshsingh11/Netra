@@ -18,7 +18,7 @@
 
 🛠 Tech Stack
 
-⚡ Backend & AI: Python, FastAPI, Hugging Face, Scikit-learn
+⚡ Backend & AI: Python, FastAPI, Hugging Face, Scikit-learn, FastAPI, pyCatic
 
 🎨 Frontend: React.js, Tailwind CSS, Streamlit
 
