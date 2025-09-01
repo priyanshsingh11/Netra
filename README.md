@@ -9,7 +9,7 @@
 
 ✅ Real-time detection of propaganda & disinformation
 ✅ NLP + Sentiment Analysis + Threat Intelligence
-✅ Multilingual support: Hindi, English, Urdu.
+✅ Multilingual data analysis - Hindi, English, Urdu.
 ✅ Interactive dashboard with live alerts & insights
 ✅ Scalable & open-source friendly architecture
 
