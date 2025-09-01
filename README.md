@@ -7,7 +7,7 @@
 
 ✨ Features
 
-✅ Real-time detection of propaganda & disinformation
+✅ Real-time detection of propaganda & disinformation 
 ✅ NLP + Sentiment Analysis + Threat Intelligence
 ✅ Multilingual data analysis - Hindi, English, Urdu.
 ✅ Interactive dashboard with live alerts & insights
@@ -28,7 +28,8 @@
 
 🔎 Data Collection: Selenium, BeautifulSoup
 
-
+---
+Demonstration Video : https://drive.google.com/file/d/1-_-_Vw7MWs7u08CzRERb7L1ECYepEI-9/view?usp=drive_link
 ---
 
 🔄 Workflow
@@ -72,10 +73,21 @@ npm start
 👥 Citizens – Safer digital space
 
 
-👨‍👩‍👧‍👦 Team Optuna – VIT Bhopal
+## 👨‍💻 Teammates & Contributions
 
-Priyansh Singh	🔹 Team Lead & Backend Developer	@priyanshsingh11
-Priyanshu Singh	🔹 Frontend Developer	@PriyanshuSingh10114
-Oshmi Singh Sisodia	🔹 NLP & Model Training	@Oshmi13
-Kanak Paliwal	🔹 UI/UX Designer	@Kanak29
-Ayush Rathi	🔹 Data Collection & Integration	@Ayush2112004
+   Team Optuna – VIT Bhopal
+
+| Team Member        | GitHub Username | Role & Contributions                                      |
+|--------------------|-----------------|------------------------------------------------------------|
+| Priyansh Singh   | `priyanshsingh11`  | Machine Learning Engineer     |
+| Priyanshu Singh  | `PriyanshuSingh10114`     | Backend development and Data Integration   |
+| Oshmi Singh Sisodia   | `Oshmi13`     | UI/UX Engineer         |
+| Kanak Paliwal  | `Kanak29`     | Frontend Developer      |
+ Ayush Rathi  | `Ayush2112004`     | Frontend Developer       |
+
+📜 License
+
+🆓 Open-source under MIT License
+
+
+
