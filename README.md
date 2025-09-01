@@ -70,3 +70,12 @@ npm start
 🌍 Global Perception – Counter misinformation
 
 👥 Citizens – Safer digital space
+
+
+👨‍👩‍👧‍👦 Team Optuna – VIT Bhopal
+
+Priyansh Singh	🔹 Team Lead & Backend Developer	@priyanshsingh11
+Priyanshu Singh	🔹 Frontend Developer	@PriyanshuSingh10114
+Oshmi Singh Sisodia	🔹 NLP & Model Training	@Oshmi13
+Kanak Paliwal	🔹 UI/UX Designer	@Kanak29
+Ayush Rathi	🔹 Data Collection & Integration	@Ayush2112004
